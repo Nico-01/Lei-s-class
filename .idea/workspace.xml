@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="87acc406-a508-45f3-89ac-3f6bbc687f6e" name="Default Changelist" comment="" />
+    <list default="true" id="87acc406-a508-45f3-89ac-3f6bbc687f6e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/phpAndDatabase/myfirstconnection.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +21,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1jkUgur2JyMTOpvlcRMcY6KaoTN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -40,7 +47,8 @@
       <updated>1604347698113</updated>
       <workItem from="1604347699199" duration="2402000" />
       <workItem from="1604351006895" duration="208000" />
-      <workItem from="1604351257600" duration="2512000" />
+      <workItem from="1604351257600" duration="3516000" />
+      <workItem from="1604436469509" duration="1337000" />
     </task>
     <servers />
   </component>
@@ -48,9 +56,9 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="516" y="286" key="NewPhpFileDialog" timestamp="1604347722222">
+    <state x="516" y="286" key="NewPhpFileDialog" timestamp="1604437288856">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="516" y="286" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1604347722222" />
+    <state x="516" y="286" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1604437288856" />
   </component>
 </project>
