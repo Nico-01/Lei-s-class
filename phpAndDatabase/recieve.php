@@ -1,9 +1,9 @@
 <?php
-$username =_$GET["username"];
-$password =_$GET["password"];
-$number =_$GET["myNumber"];
-$color =_$GET["myColor"];
-$select =_$GET["mySelect"];
+$username =$_GET["username"];
+$password =$_GET["password"];
+$number =$_GET["myNumber"];
+$color =$_GET["myColor"];
+$select =$_GET["mySelect"];
 
 echo "Username: ".$username;
 echo "<br>Password: ".$password;
