@@ -21,7 +21,7 @@ if ($conn->error){
 
 // create a query
 $sql = "select * from users 
-where username = '".$username."' and password = '".$password;."'";
+where username = '".$username."' and password = '".$password."'";
 echo $sql;
 
 // run my query
@@ -37,7 +37,7 @@ if ($result->num_rows > 1){
         //set a session variable
         $_SESSION["firstname"] = $row["firstname"];
     }
-}echo{
+}else{
     echo "wrong username or password";
 }
 
