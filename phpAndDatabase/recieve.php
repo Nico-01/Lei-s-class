@@ -1,9 +1,9 @@
 <?php
-$username =$_POST["username"];
-$password =$_POST["password"];
-$number =$_POST["myNumber"];
-$color =$_POST["myColor"];
-$select =$_POST["mySelect"];
+$username =$_GET["username"];
+$password =$_GET["password"];
+$number =$_GET["myNumber"];
+$color =$_GET["myColor"];
+$select =$_GET["mySelect"];
 
 echo "Username: ".$username;
 echo "<br>Password: ".$password;

@@ -2,11 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87acc406-a508-45f3-89ac-3f6bbc687f6e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/phpAndDatabase/loginForm.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phpAndDatabase/phpform_post.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phpAndDatabase/recieve_post.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SessionExcercise/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SessionExcercise/page1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SessionExcercise/page2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SessionExcercise/page3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SessionExcercise/page4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SessionExcercise/page5.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpAndDatabase/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/phpAndDatabase/login.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/phpAndDatabase/recieve.php" beforeDir="false" afterPath="$PROJECT_DIR$/phpAndDatabase/recieve.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpAndDatabase/recieve_post.php" beforeDir="false" afterPath="$PROJECT_DIR$/phpAndDatabase/recieve_post.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpAndDatabase/showAllUsers.html" beforeDir="false" afterPath="$PROJECT_DIR$/phpAndDatabase/showAllUsers.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +66,8 @@
       <workItem from="1604351006895" duration="208000" />
       <workItem from="1604351257600" duration="3516000" />
       <workItem from="1604436469509" duration="3291000" />
-      <workItem from="1604518676341" duration="5023000" />
+      <workItem from="1604518676341" duration="6938000" />
+      <workItem from="1604864635687" duration="1637000" />
     </task>
     <servers />
   </component>
@@ -68,10 +75,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="516" y="286" key="NewPhpFileDialog" timestamp="1604520591872">
+    <state x="516" y="286" key="NewPhpFileDialog" timestamp="1604865515187">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="516" y="286" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1604520591872" />
+    <state x="516" y="286" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1604865515187" />
     <state x="339" y="162" key="run.anything.popup" timestamp="1604521033726">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
