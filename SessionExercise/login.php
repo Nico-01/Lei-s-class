@@ -28,7 +28,7 @@ echo $sql;
 $result = mysqli_query($conn, $sql);
 
 //show my result
-if ($result->num_rows > 1){
+if ($result->num_rows == 1){
     echo "you have login";
     while ($row = $result->fetch_assoc()) {
         echo $row["firstname"];
