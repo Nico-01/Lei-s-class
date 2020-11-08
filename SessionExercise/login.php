@@ -20,7 +20,7 @@ if ($conn->error){
 }
 
 // create a query
-$sql = "select * from users 
+$sql = "select * from Users 
 where username = '".$username."' and password = '".$password."'";
 echo $sql;
 
