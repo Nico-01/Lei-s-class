@@ -3,7 +3,7 @@
 @session_start();
 //get session's value
 $username = $_SESSION["username"];
-echo "Username:".$username;
+echo "<p>Username:".$username."</p>";
 
 $password = $_SESSION["password"];
 echo "Password:".$password;
