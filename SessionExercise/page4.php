@@ -2,8 +2,11 @@
 //start a session
 @session_start();
 //get session's value
-$SESSION["message"] = $_POST["message"];
-echo "Message:".$message;
+$firstname = $SESSION["firtstname"]
+//(removable)
+// $SESSION["message"] = $_POST["message"];
+// echo "Message:".$message;
+echo "User Firstname:".$firstname;
 
 //*Code below can be removed because it's on github
 //get session's value 2

@@ -32,6 +32,10 @@ if ($result->num_rows > 1){
     echo "you have login";
     while ($row = $result->fetch_assoc()) {
         echo $row["firstname"];
+        //start a  session
+        @session_start();
+        //set a session variable
+        $_SESSION["firstname"] = $row["firstname"];
     }
 }echo{
     echo "wrong username or password";
