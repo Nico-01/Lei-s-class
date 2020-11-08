@@ -2,7 +2,7 @@
 //start a session
 @session_start();
 //get session's value
-$firstname = $SESSION["firtstname"]
+$firstname = $_SESSION["firtstname"]
 //(removable)
 // $SESSION["message"] = $_POST["message"];
 // echo "Message:".$message;
