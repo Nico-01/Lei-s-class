@@ -1,6 +1,4 @@
 <?php
-//start a sesssion
-@session_start();
 //*Sessions below can be removed because it's on github
 //set values to session variables
 //$_SESSION["username"] = "nic";
@@ -10,6 +8,9 @@
 //*^
 if (isset($_POST["message"])){
     echo "<p>I have a post message in this page</p>";
+    //start a sesssion
+    @session_start();
+    $SESSION["message"] = $_POST["message"];
 }else{
     echo"<p>Please post a message to me</p>";
 }

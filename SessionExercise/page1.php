@@ -2,14 +2,20 @@
 //start a session
 @session_start();
 //get session's value
-$username = $_SESSION["username"];
-echo "<p>Username:".$username."</p>";
+$SESSION["message"] = $_POST["message"];
+echo "Message:".$message;
 
-$password = $_SESSION["password"];
-echo "Password:".$password;
-
-$color = $_SESSION["color"];
-echo "Color:".$color;
-
-$address = $_SESSION["Address"];
-echo "Address:".$address;
+//*Code below can be removed because it's on github
+//get session's value 2
+//$username = $_SESSION["username"];
+//echo "<p>Username:".$username."</p>";
+//
+//$password = $_SESSION["password"];
+//echo "<p>Password:".$password."</p>";
+//
+//$color = $_SESSION["color"];
+//echo "<p>Color:".$color."</p>";
+//
+//$address = $_SESSION["Address"];
+//echo "<p>Address:".$address."</p>";
+//*^
