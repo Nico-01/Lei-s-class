@@ -2,16 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87acc406-a508-45f3-89ac-3f6bbc687f6e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/include/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/headerimage.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/images/headerpicture.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/js/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/login.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/logout.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/menu.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/page5.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staticWeb/WEBSITE/products.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staticWeb/WEBSITE/showAllUsers.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticWeb/WEBSITE/Birds.html" beforeDir="false" afterPath="$PROJECT_DIR$/staticWeb/WEBSITE/Birds.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticWeb/WEBSITE/CatFoodProduct1.html" beforeDir="false" afterPath="$PROJECT_DIR$/staticWeb/WEBSITE/CatFoodProduct1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticWeb/WEBSITE/Categories.html" beforeDir="false" afterPath="$PROJECT_DIR$/staticWeb/WEBSITE/Categories.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticWeb/WEBSITE/Cats.html" beforeDir="false" afterPath="$PROJECT_DIR$/staticWeb/WEBSITE/Cats.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticWeb/WEBSITE/Dogs.html" beforeDir="false" afterPath="$PROJECT_DIR$/staticWeb/WEBSITE/Dogs.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticWeb/WEBSITE/Fish.html" beforeDir="false" afterPath="$PROJECT_DIR$/staticWeb/WEBSITE/Fish.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticWeb/WEBSITE/HomePage.php" beforeDir="false" afterPath="$PROJECT_DIR$/staticWeb/WEBSITE/HomePage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticWeb/WEBSITE/Reptiles.html" beforeDir="false" afterPath="$PROJECT_DIR$/staticWeb/WEBSITE/Reptiles.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,13 +44,15 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/SessionExercise" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/staticWeb/WEBSITE" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Nicole\Leiclass\staticWeb\WEBSITE" />
+      <recent name="C:\Users\Nicole\Leiclass\staticWeb" />
       <recent name="C:\Users\Nicole\Leiclass\SessionExercise" />
       <recent name="C:\Users\Nicole\Leiclass\phpAndDatabase" />
     </key>
@@ -68,7 +71,7 @@
       <workItem from="1604436469509" duration="3291000" />
       <workItem from="1604518676341" duration="6938000" />
       <workItem from="1604864635687" duration="9606000" />
-      <workItem from="1605037120159" duration="3633000" />
+      <workItem from="1605037120159" duration="5483000" />
     </task>
     <servers />
   </component>
@@ -76,10 +79,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="516" y="286" key="NewPhpFileDialog" timestamp="1604865515187">
+    <state x="516" y="286" key="NewPhpFileDialog" timestamp="1605044014047">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="516" y="286" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1604865515187" />
+    <state x="516" y="286" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1605044014047" />
     <state x="339" y="162" key="run.anything.popup" timestamp="1604521033726">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

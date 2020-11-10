@@ -9,7 +9,7 @@
 
 
 <body>
-<a href="HomePage.php"><img class="logo" src="images/logo.png"></a>
+<a href="HomePage.html"><img class="logo" src="images/logo.png"></a>
 <img class="delivery" src="images/Delivery.png">
  
 <div class="navbar">
@@ -36,7 +36,7 @@
   <a href="AboutUs.html">About Us</a>
   <a href="Contact.html">Contact</a> 
 </div>
-<a href="HomePage.php"><img class="cart" src="images/cart.png"></a>
+<a href="HomePage.html"><img class="cart" src="images/cart.png"></a>
 
 <!-- Gallery -->
 <div class="gallery">
@@ -47,13 +47,7 @@
   <div class="title">Dog food 1</div>
 </div>
 
-<div class="gallery">
-  <a href="">
-    <!-- Image source: https://www.istockphoto.com/photo/bowl-of-pet-food-gm157530425-11695181 -->
-    <img src="images/dog_food2.jpg" alt="food2" width="600" height="400">
-  </a>
-  <div class="title">Dog food 2</div>
-</div>
+
 
 <div id="footer">&copy; Pet Food Shop, NZ , 2020</div>
 
