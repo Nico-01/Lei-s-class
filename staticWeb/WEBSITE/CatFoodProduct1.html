@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<!-- Comments look like this, remember to do a title -->
+<title>CatProduct1</title>
+<link rel = "stylesheet" type = "text/css" href = "css/style.css" >
+<script src="js/scriptproducts.js"></script>
+</head>
+
+
+<body onload="invoice()">
+<a href="HomePage.html"><img class="logo" src="images/logo.png"></a> 
+<img class="delivery" src="images/Delivery.png">
+
+<div class="navbar">
+<div class="dropdown">
+    <button class="dropbtn">Products
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="Categories.html">Categories</a>
+    </div>
+ </div>
+  
+  
+  <div class="dropdown2">	
+	<button class="dropbtn2">Customer Service
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content2">
+      <a href="PrivacyInformation.html">Privacy Information</a>
+
+    </div>
+  </div> 
+  
+  <a href="AboutUs.html">About Us</a>
+  <a href="Contact.html">Contact</a> 
+</div>
+<a href="HomePage.html"><img class="cart" src="images/cart.png"></a> 
+
+<!-- Gallery -->
+<td id="middlecontent">
+<div class="product">
+  <a href="#"> </a>
+    <div>Cat food 1</div>
+    <img src="images/cat_food1.jpg" alt="food1" width="350" height="320">
+    <div>Category: Cat</div>
+    <p>Delicious and premium quality food for cats.</p>
+	<p>Price: NZD$50 each </p>
+    <p>qty:<input class="qty" id="foodQty" type="number">
+    <button class = "addBut" id="addfood" onclick="addToCart(this)" price="50">Add to Cart</button>
+    </p>
+</div>
+</td>
+
+<td id="rightside">
+<p>Cart:</p>
+<div id="cartDiv"></div>
+<button id="showInvoiceBut">Invoice</button>
+</td>
+</tr>
+</table>
+</div>
+
+<!-- Voice Page -->
+<div id="voicePage" class="voice">
+
+  <!-- Voice content -->
+  <div id="voice-content">
+    <span class="close">&times;</span>
+    <p>Please check your invoice</p>
+  </div>
+
+</div>
+
+</div>
+
+
+</body>
+</html>
