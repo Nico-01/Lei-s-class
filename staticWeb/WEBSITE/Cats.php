@@ -47,14 +47,6 @@
   <div class="title">Cat food 1</div>
 </div>
 
-<div class="gallery">
-  <a href="#">
-    <!-- Image source: https://www.istockphoto.com/photo/can-of-cat-food-gm172712758-5303527 -->
-    <img src="images/cat_food2.jpg" alt="food2" width="600" height="400">
-  </a>
-  <div class="title">Cat food 2</div>
-</div>
-
 <div id="footer">&copy; Pet Food Shop, NZ , 2020</div>
 
 </body>
