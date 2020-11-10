@@ -39,6 +39,11 @@
 <a href="HomePage.html"><img class="cart" src="images/cart.png"></a>
 
 <!-- Gallery -->
+ <div class="product">
+     <div id="header">
+         <?php include "products.php"; ?>
+         <?php include "login.php"; ?>
+
 <div class="gallery">
   <a href="CatFoodProduct1.html">
     <!-- Image source: https://www.istockphoto.com/photo/pet-dried-food-in-cyan-plastic-bowl-gm836265060-136018823 -->
@@ -46,6 +51,9 @@
   </a>
   <div class="title">Cat food 1</div>
 </div>
+
+ </div>
+ </div>
 
 <div id="footer">&copy; Pet Food Shop, NZ , 2020</div>
 
