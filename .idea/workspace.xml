@@ -2,7 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87acc406-a508-45f3-89ac-3f6bbc687f6e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/staticWeb/WEBSITE/Cats.php" beforeDir="false" afterPath="$PROJECT_DIR$/staticWeb/WEBSITE/Cats.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staticWeb/WEBSITE/addToCart.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staticWeb/WEBSITE/cart.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staticWeb/WEBSITE/category.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staticWeb/WEBSITE/checkout.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staticWeb/WEBSITE/login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staticWeb/WEBSITE/logout.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staticWeb/WEBSITE/register.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staticWeb/WEBSITE/registerForm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staticWeb/WEBSITE/viewOrder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Leiclass.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Leiclass.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SessionExercise/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SessionExercise/login.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SessionExercise/loginForm.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SessionExercise/page1.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SessionExercise/page2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SessionExercise/page3.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SessionExercise/page4.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SessionExercise/page5.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/menu.php" beforeDir="false" afterPath="$PROJECT_DIR$/include/menu.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticWeb/WEBSITE/HomePage.html" beforeDir="false" afterPath="$PROJECT_DIR$/staticWeb/WEBSITE/HomePage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticWeb/WEBSITE/products.php" beforeDir="false" afterPath="$PROJECT_DIR$/staticWeb/WEBSITE/products.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +44,36 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/vendor/php-http/promise" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/php-http/multipart-stream-builder" />
+      <path value="$PROJECT_DIR$/vendor/php-http/message-factory" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/clue/stream-filter" />
+      <path value="$PROJECT_DIR$/vendor/mailgun/mailgun-php" />
+      <path value="$PROJECT_DIR$/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/options-resolver" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/php-http/client-common" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/vendor/php-http/discovery" />
+      <path value="$PROJECT_DIR$/vendor/php-http/guzzle6-adapter" />
+      <path value="$PROJECT_DIR$/vendor/php-http/httplug" />
+      <path value="$PROJECT_DIR$/vendor/php-http/message" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+    </include_path>
   </component>
   <component name="ProjectId" id="1jkUgur2JyMTOpvlcRMcY6KaoTN" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -46,6 +97,9 @@
       <recent name="C:\Users\Nicole\Leiclass\SessionExercise" />
       <recent name="C:\Users\Nicole\Leiclass\phpAndDatabase" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Nicole\Leiclass\staticWeb\WEBSITE" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -61,7 +115,15 @@
       <workItem from="1604436469509" duration="3291000" />
       <workItem from="1604518676341" duration="6938000" />
       <workItem from="1604864635687" duration="9606000" />
-      <workItem from="1605037120159" duration="6371000" />
+      <workItem from="1605037120159" duration="6603000" />
+      <workItem from="1605128725958" duration="892000" />
+      <workItem from="1605472102266" duration="3349000" />
+      <workItem from="1605728643506" duration="310000" />
+      <workItem from="1605731887171" duration="211000" />
+      <workItem from="1605732113484" duration="2127000" />
+      <workItem from="1606183512321" duration="1586000" />
+      <workItem from="1606261255093" duration="2482000" />
+      <workItem from="1606352920337" duration="3431000" />
     </task>
     <servers />
   </component>
@@ -69,10 +131,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="516" y="286" key="NewPhpFileDialog" timestamp="1605044014047">
+    <state x="516" y="286" key="NewPhpFileDialog" timestamp="1605472422423">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="516" y="286" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1605044014047" />
+    <state x="516" y="286" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1605472422423" />
     <state x="339" y="162" key="run.anything.popup" timestamp="1604521033726">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
