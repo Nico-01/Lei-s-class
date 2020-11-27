@@ -9,7 +9,7 @@
 
 
 <body>
-<a href="HomePage.html"><img class="logo" src="images/logo.png"></a> 
+<a href="HomePage.html"><img class="logo" src="images/logo.png"></a>
 <img class="delivery" src="images/Delivery.png">
  
 <div class="navbar">
@@ -36,9 +36,14 @@
   <a href="AboutUs.html">About Us</a>
   <a href="Contact.html">Contact</a> 
 </div>
-<a href="HomePage.html"><img class="cart" src="images/cart.png"></a> 
+<a href="HomePage.html"><img class="cart" src="images/cart.png"></a>
 
 <!-- Gallery -->
+ <div class="product">
+     <div id="header">
+         <?php include "products.php"; ?>
+         <?php include "login.php"; ?>
+
 <div class="gallery">
   <a href="CatFoodProduct1.html">
     <!-- Image source: https://www.istockphoto.com/photo/pet-dried-food-in-cyan-plastic-bowl-gm836265060-136018823 -->
@@ -47,13 +52,8 @@
   <div class="title">Cat food 1</div>
 </div>
 
-<div class="gallery">
-  <a href="#">
-    <!-- Image source: https://www.istockphoto.com/photo/can-of-cat-food-gm172712758-5303527 -->
-    <img src="images/cat_food2.jpg" alt="food2" width="600" height="400">
-  </a>
-  <div class="title">Cat food 2</div>
-</div>
+ </div>
+ </div>
 
 <div id="footer">&copy; Pet Food Shop, NZ , 2020</div>
 
