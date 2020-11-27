@@ -2,27 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87acc406-a508-45f3-89ac-3f6bbc687f6e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/staticWeb/WEBSITE/addToCart.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticWeb/WEBSITE/cart.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticWeb/WEBSITE/category.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticWeb/WEBSITE/checkout.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticWeb/WEBSITE/login.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticWeb/WEBSITE/logout.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticWeb/WEBSITE/register.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticWeb/WEBSITE/registerForm.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticWeb/WEBSITE/viewOrder.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Leiclass.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Leiclass.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SessionExercise/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SessionExercise/login.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SessionExercise/loginForm.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SessionExercise/page1.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SessionExercise/page2.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SessionExercise/page3.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SessionExercise/page4.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SessionExercise/page5.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/menu.php" beforeDir="false" afterPath="$PROJECT_DIR$/include/menu.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticWeb/WEBSITE/HomePage.html" beforeDir="false" afterPath="$PROJECT_DIR$/staticWeb/WEBSITE/HomePage.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/staticWeb/WEBSITE/products.php" beforeDir="false" afterPath="$PROJECT_DIR$/staticWeb/WEBSITE/products.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -123,7 +103,9 @@
       <workItem from="1605732113484" duration="2127000" />
       <workItem from="1606183512321" duration="1586000" />
       <workItem from="1606261255093" duration="2482000" />
-      <workItem from="1606352920337" duration="3431000" />
+      <workItem from="1606352920337" duration="5778000" />
+      <workItem from="1606425238556" duration="597000" />
+      <workItem from="1606457630116" duration="2847000" />
     </task>
     <servers />
   </component>
