@@ -40,7 +40,7 @@
 
 <!-- Content:Gallery of pictures for products catalog -->
 <div class="gallery">
-  <a href="Cats.php">
+  <a href="allproducts.php">
   <!-- Image source: https://www.istockphoto.com/photo/silver-tipped-blue-adult-korat-cat-laying-down-side-ways-with-one-paw-hanging-over-gm1052354804-281264305 -->
     <img src="images/1cat.jpg" alt="cats" width="300" height="300">
   </a>
