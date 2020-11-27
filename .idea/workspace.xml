@@ -3,14 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="87acc406-a508-45f3-89ac-3f6bbc687f6e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticWeb/WEBSITE/Birds.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticWeb/WEBSITE/CatFoodProduct1.html" beforeDir="false" afterPath="$PROJECT_DIR$/staticWeb/WEBSITE/CatFoodProduct1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticWeb/WEBSITE/Categories.html" beforeDir="false" afterPath="$PROJECT_DIR$/staticWeb/WEBSITE/Categories.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticWeb/WEBSITE/Cats.php" beforeDir="false" afterPath="$PROJECT_DIR$/staticWeb/WEBSITE/Cats.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticWeb/WEBSITE/Dogs.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticWeb/WEBSITE/Fish.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticWeb/WEBSITE/HomePage.html" beforeDir="false" afterPath="$PROJECT_DIR$/staticWeb/WEBSITE/HomePage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticWeb/WEBSITE/Reptiles.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,14 +70,14 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Nicole\Leiclass\staticWeb\WEBSITE" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Nicole\Leiclass\staticWeb\WEBSITE" />
       <recent name="C:\Users\Nicole\Leiclass\staticWeb" />
       <recent name="C:\Users\Nicole\Leiclass\SessionExercise" />
       <recent name="C:\Users\Nicole\Leiclass\phpAndDatabase" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Nicole\Leiclass\staticWeb\WEBSITE" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -113,6 +105,7 @@
       <workItem from="1606352920337" duration="5778000" />
       <workItem from="1606425238556" duration="597000" />
       <workItem from="1606457630116" duration="4554000" />
+      <workItem from="1606519168261" duration="659000" />
     </task>
     <servers />
   </component>
@@ -120,14 +113,22 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="412" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606512792565">
+    <state x="412" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606519342163">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="412" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1606512792565" />
+    <state x="412" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1606519342163" />
     <state x="516" y="286" key="NewPhpFileDialog" timestamp="1605472422423">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="516" y="286" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1605472422423" />
+    <state x="525" y="83" key="RollbackChangesDialog" timestamp="1606519536338">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="525" y="83" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1606519536338" />
+    <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1606519625310">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1606519625310" />
     <state x="339" y="162" key="run.anything.popup" timestamp="1604521033726">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
