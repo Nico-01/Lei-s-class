@@ -3,7 +3,14 @@
   <component name="ChangeListManager">
     <list default="true" id="87acc406-a508-45f3-89ac-3f6bbc687f6e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticWeb/WEBSITE/products.php" beforeDir="false" afterPath="$PROJECT_DIR$/staticWeb/WEBSITE/products.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticWeb/WEBSITE/Birds.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticWeb/WEBSITE/CatFoodProduct1.html" beforeDir="false" afterPath="$PROJECT_DIR$/staticWeb/WEBSITE/CatFoodProduct1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticWeb/WEBSITE/Categories.html" beforeDir="false" afterPath="$PROJECT_DIR$/staticWeb/WEBSITE/Categories.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticWeb/WEBSITE/Cats.php" beforeDir="false" afterPath="$PROJECT_DIR$/staticWeb/WEBSITE/Cats.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticWeb/WEBSITE/Dogs.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticWeb/WEBSITE/Fish.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticWeb/WEBSITE/HomePage.html" beforeDir="false" afterPath="$PROJECT_DIR$/staticWeb/WEBSITE/HomePage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticWeb/WEBSITE/Reptiles.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +112,7 @@
       <workItem from="1606261255093" duration="2482000" />
       <workItem from="1606352920337" duration="5778000" />
       <workItem from="1606425238556" duration="597000" />
-      <workItem from="1606457630116" duration="2847000" />
+      <workItem from="1606457630116" duration="4554000" />
     </task>
     <servers />
   </component>
@@ -113,6 +120,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="412" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606512792565">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="412" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1606512792565" />
     <state x="516" y="286" key="NewPhpFileDialog" timestamp="1605472422423">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

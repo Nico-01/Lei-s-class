@@ -1,4 +1,4 @@
-<?php
+?php
 //1. connect to database
 $server = "klbcedmmqp7w17ik.cbetxkdyhwsb.us-east-1.rds.amazonaws.com";
 $dbusername = "t8jnow42fmp1smpt";
