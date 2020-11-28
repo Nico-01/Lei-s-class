@@ -47,9 +47,7 @@
          <?php include "logout.php"; ?>
          <?php include "register.php"; ?>
          <?php include "cart.php"; ?>
-         <?php include "checkout.php"; ?>
-         <?php include "addToCart.php"; ?>
-         <?php include "viewOrder.php"; ?>
+
 
  </div>
  </div>
