@@ -34,7 +34,8 @@
   </div> 
   
   <a href="AboutUs.html">About Us</a>
-  <a href="Contact.html">Contact</a> 
+  <a href="Contact.html">Contact</a>
+    <a href="">Cart</a>
 </div>
 <a href="HomePage.html"><img class="cart" src="images/cart.png"></a>
 
@@ -43,7 +44,12 @@
      <div id="header">
          <?php include "products.php"; ?>
          <?php include "login.php"; ?>
+         <?php include "logout.php"; ?>
          <?php include "register.php"; ?>
+         <?php include "cart.php"; ?>
+         <?php include "checkout.php"; ?>
+         <?php include "addToCart.php"; ?>
+         <?php include "viewOrder.php"; ?>
 
  </div>
  </div>
