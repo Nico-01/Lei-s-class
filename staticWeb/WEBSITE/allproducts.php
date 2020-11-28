@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <!-- Comments look like this, remember to do a title -->
-<title>Cats</title>
+<title>allProducts</title>
 <link rel = "stylesheet" type = "text/css" href = "css/style.css" >
 </head>
 
@@ -43,14 +43,7 @@
      <div id="header">
          <?php include "products.php"; ?>
          <?php include "login.php"; ?>
-
-<div class="gallery">
-  <a href="CatFoodProduct1.html">
-    <!-- Image source: https://www.istockphoto.com/photo/pet-dried-food-in-cyan-plastic-bowl-gm836265060-136018823 -->
-    <img src="images/cat_food1.jpg" alt="food1" width="300" height="300">
-  </a>
-  <div class="title">Cat food 1</div>
-</div>
+         <?php include "register.php"; ?>
 
  </div>
  </div>

@@ -7,10 +7,10 @@ $address = $_POST["address"];
 $phone = $_POST["phone"];
 if ($firstname == "" || $lastname==""){
     //1. connect to database
-    $server = "klbcedmmqp7w17ik.cbetxkdyhwsb.us-east-1.rds.amazonaws.com";
-    $dbusername = "t8jnow42fmp1smpt";
-    $dbpassword = "fdavedw769oxw5pd";
-    $dbname = "k2nfay1osz1i59kc";
+    $server = "u0zbt18wwjva9e0v.cbetxkdyhwsb.us-east-1.rds.amazonaws.com";
+    $dbusername = "qrzgb3mx9k0wl0ko";
+    $dbpassword = "p2hohc6r9awsbfjy";
+    $dbname = "d9jdge5z2cy7qr3m";
 
     $conn = new mysqli($server, $dbusername, $dbpassword, $dbname);
 

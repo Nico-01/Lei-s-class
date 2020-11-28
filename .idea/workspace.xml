@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="87acc406-a508-45f3-89ac-3f6bbc687f6e" name="Default Changelist" comment="" />
+    <list default="true" id="87acc406-a508-45f3-89ac-3f6bbc687f6e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticWeb/WEBSITE/CatFoodProduct1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticWeb/WEBSITE/allproducts.php" beforeDir="false" afterPath="$PROJECT_DIR$/staticWeb/WEBSITE/allproducts.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticWeb/WEBSITE/cart.php" beforeDir="false" afterPath="$PROJECT_DIR$/staticWeb/WEBSITE/cart.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticWeb/WEBSITE/category.php" beforeDir="false" afterPath="$PROJECT_DIR$/staticWeb/WEBSITE/category.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticWeb/WEBSITE/checkout.php" beforeDir="false" afterPath="$PROJECT_DIR$/staticWeb/WEBSITE/checkout.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticWeb/WEBSITE/register.php" beforeDir="false" afterPath="$PROJECT_DIR$/staticWeb/WEBSITE/register.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -103,18 +111,29 @@
       <workItem from="1606352920337" duration="5778000" />
       <workItem from="1606425238556" duration="597000" />
       <workItem from="1606457630116" duration="4554000" />
-      <workItem from="1606519168261" duration="1085000" />
+      <workItem from="1606519168261" duration="2138000" />
+      <workItem from="1606550962699" duration="997000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="412" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606519342163">
+    <state x="412" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606520655553">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="412" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1606519342163" />
+    <state x="412" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1606520655553" />
     <state x="516" y="286" key="NewPhpFileDialog" timestamp="1605472422423">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -123,6 +142,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="525" y="83" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1606519536338" />
+    <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1606520601567">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1606520601567" />
     <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1606520279759">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
