@@ -35,7 +35,7 @@
   
   <a href="AboutUs.html">About Us</a>
   <a href="Contact.html">Contact</a>
-    <a href="">Cart</a>
+    <a href="cart.php">Cart</a>
 </div>
 <a href="HomePage.html"><img class="cart" src="images/cart.png"></a>
 
@@ -46,7 +46,6 @@
          <?php include "login.php"; ?>
          <?php include "logout.php"; ?>
          <?php include "register.php"; ?>
-         <?php include "cart.php"; ?>
 
 
  </div>
