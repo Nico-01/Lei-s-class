@@ -5,7 +5,7 @@ $username = $_POST["username"];
 $password = $_POST["password"];
 $address = $_POST["address"];
 $phone = $_POST["phone"];
-if ($firstname == "" || $lastname==""){
+if ($firstname != "" && $lastname !=""){
     //1. connect to database
     $server = "klbcedmmqp7w17ik.cbetxkdyhwsb.us-east-1.rds.amazonaws.com";
     $dbusername = "t8jnow42fmp1smpt";
