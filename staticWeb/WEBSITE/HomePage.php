@@ -91,12 +91,12 @@ style="width:100%">
 </tr>
 </table>
 
-<!-- Footer -->
-<div id="footer">&copy; Pet Food Shop, NZ , 2020</div>
-
 <div id="header">
     <?php include "login.php"; ?>
 </div>
+
+<!-- Footer -->
+<div id="footer">&copy; Pet Food Shop, NZ , 2020</div>
 
 </body>
 </html>
