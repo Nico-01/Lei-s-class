@@ -87,13 +87,11 @@ style="width:100%">
   <input type="text" id="email" name="email" value="Enter email address here"> <input type="submit" value="Submit">
 </form> 
 </div>
-
+    <div id="header">
+        <?php include "login.php"; ?>
+    </div>
 </tr>
 </table>
-
-<div id="header">
-    <?php include "login.php"; ?>
-</div>
 
 <!-- Footer -->
 <div id="footer">&copy; Pet Food Shop, NZ , 2020</div>
