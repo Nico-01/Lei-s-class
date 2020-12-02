@@ -14,7 +14,7 @@ $conn = new mysqli($server, $dbusername, $dbpassword, $dbname);
 //2. create a query
 // take input from selected category;
 if (isset($_GET["Category"])){
-    echo "<h1>".$_GET["C Nategory"]."</h1>";
+    echo "<h1>".$_GET["Category"]."</h1>";
     $sql = "select * from products where category = ".$_GET["Category"];
 }else{
     $sql = "select * from products";
@@ -30,7 +30,7 @@ while ($row = $result->fetch_assoc()){
     <div>
         <p><?php echo $row["name"]; ?></p>
         <p><?php echo $row["price"]; ?></p>
-        <p><img src="<?php echo $row["image"]; ?>"</p>
+        <p><img width="100px" src="<?php echo $row["image"]; ?>"</p>
         <form action="addToCart.php" method="post">
             <input name="productID" value="<?php echo $row["id"]; ?>" type="hidden">
             <input name="qty" type="number" placeholder="QTY" min="0">
