@@ -42,10 +42,8 @@
 <!-- Gallery -->
  <div class="product">
      <div id="header">
-         <?php include "products.php"; ?>
          <?php include "login.php"; ?>
-         <?php include "logout.php"; ?>
-         <?php include "register.php"; ?>
+         <?php include "products.php"; ?>
 
 
  </div>
