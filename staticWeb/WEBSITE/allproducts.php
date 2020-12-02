@@ -45,8 +45,6 @@
          <?php include "login.php"; ?>
          <?php include "products.php"; ?>
          <?php include "logout.php"; ?>
-         <?php include "register.php"; ?>
-
 
  </div>
  </div>
