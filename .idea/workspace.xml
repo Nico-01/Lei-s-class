@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87acc406-a508-45f3-89ac-3f6bbc687f6e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/staticWeb/WEBSITE/menu.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticWeb/WEBSITE/AboutUs.html" beforeDir="false" afterPath="$PROJECT_DIR$/staticWeb/WEBSITE/AboutUs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/menu.php" beforeDir="false" afterPath="$PROJECT_DIR$/include/menu.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticWeb/WEBSITE/AboutUs.html" beforeDir="false" afterPath="$PROJECT_DIR$/staticWeb/WEBSITE/AboutUs.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticWeb/WEBSITE/Categories.php" beforeDir="false" afterPath="$PROJECT_DIR$/staticWeb/WEBSITE/Categories.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticWeb/WEBSITE/HomePage.html" beforeDir="false" afterPath="$PROJECT_DIR$/staticWeb/WEBSITE/HomePage.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticWeb/WEBSITE/allproducts.php" beforeDir="false" afterPath="$PROJECT_DIR$/staticWeb/WEBSITE/allproducts.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,14 +76,14 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Nicole\Leiclass\staticWeb\WEBSITE" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Nicole\Leiclass\staticWeb\WEBSITE" />
       <recent name="C:\Users\Nicole\Leiclass\staticWeb" />
       <recent name="C:\Users\Nicole\Leiclass\SessionExercise" />
       <recent name="C:\Users\Nicole\Leiclass\phpAndDatabase" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Nicole\Leiclass\staticWeb\WEBSITE" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -107,7 +112,9 @@
       <workItem from="1606425238556" duration="597000" />
       <workItem from="1606457630116" duration="4554000" />
       <workItem from="1606519168261" duration="2138000" />
-      <workItem from="1606550962699" duration="3485000" />
+      <workItem from="1606550962699" duration="3947000" />
+      <workItem from="1606796195597" duration="620000" />
+      <workItem from="1606868804056" duration="3189000" />
     </task>
     <servers />
   </component>

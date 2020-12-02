@@ -8,6 +8,7 @@ $dbusername = "t8jnow42fmp1smpt";
 $dbpassword = "fdavedw769oxw5pd";
 $dbname = "k2nfay1osz1i59kc";
 
+
 $conn = new mysqli($server, $dbusername, $dbpassword, $dbname);
 
 //2. create a query

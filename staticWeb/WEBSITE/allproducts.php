@@ -9,7 +9,7 @@
 
 
 <body>
-<a href="HomePage.html"><img class="logo" src="images/logo.png"></a>
+<a href="HomePage.php"><img class="logo" src="images/logo.png"></a>
 <img class="delivery" src="images/Delivery.png">
  
 <div class="navbar">
@@ -33,11 +33,11 @@
     </div>
   </div> 
   
-  <a href="AboutUs.html">About Us</a>
+  <a href="AboutUs.php">About Us</a>
   <a href="Contact.html">Contact</a>
     <a href="cart.php">Cart</a>
 </div>
-<a href="HomePage.html"><img class="cart" src="images/cart.png"></a>
+<a href="HomePage.php"><img class="cart" src="images/cart.png"></a>
 
 <!-- Gallery -->
  <div class="product">
