@@ -18,7 +18,7 @@
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
-      <a href="Categories.html">Categories</a>
+      <a href="Categories.html">Products</a>
     </div>
  </div>
   
@@ -35,16 +35,16 @@
   
   <a href="AboutUs.php">About Us</a>
   <a href="Contact.html">Contact</a>
+    <a href="registerForm.html">Register</a>
     <a href="cart.php">Cart</a>
 </div>
-<a href="HomePage.php"><img class="cart" src="images/cart.png"></a>
+<a href="cart.php"><img class="cart" src="images/cart.png"></a>
 
 <!-- Gallery -->
  <div class="product">
      <div id="header">
          <?php include "login.php"; ?>
          <?php include "products.php"; ?>
-         <?php include "logout.php"; ?>
 
  </div>
  </div>
