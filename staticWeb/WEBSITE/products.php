@@ -27,12 +27,10 @@ $result = mysqli_query($conn,$sql);
 //4. show result
 while ($row = $result->fetch_assoc()){
     ?>
-    <div>
+    <div class="gallery">
         <p><?php echo $row["name"]; ?></p>
         <p><?php echo $row["price"]; ?></p>
-        <div class="gallery">
         <p><img width="200px" src="<?php echo $row["image"]; ?>"</p>
-        </div>
         <form action="addToCart.php" method="post">
             <input name="productID" value="<?php echo $row["id"]; ?>" type="hidden">
             <input name="qty" type="number" placeholder="QTY" min="0">
