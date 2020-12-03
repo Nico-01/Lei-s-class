@@ -73,16 +73,15 @@ function getProductPriceByProductID($productID){
 }
 
 $userID = $_SESSION["userID"];
-$orderNum = $_POST["orderNum"];
 $shippingAddress = $_POST["shippingAddress"];
 date_default_timezone_set("Pacific/Auckland");
 $datetime = date("Y-m-d H:i:s");
 
-function createAnOrder($orderNum, $userID, $shippingAddress, $datetime){
+function createAnOrder($userID, $shippingAddress, $datetime){
     //1 connection
     $conn = createDatabaseConnection();
     //2 query
-    $sql = "($orderNum, $userID,'$shippingAddress','$datetime')";
+    $sql = "($userID,'$shippingAddress','$datetime')";
     echo $sql;
     //3 run query
     $result = mysqli_query($conn, $sql);
