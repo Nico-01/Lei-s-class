@@ -31,4 +31,4 @@ else{
 }
 
 
-echo "<a href='HomePage.php.php'>Home</a>";
+echo "<a href='HomePage.php'>Home</a>";
