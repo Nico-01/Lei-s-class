@@ -28,6 +28,8 @@ while ($row = $result->fetch_assoc()){
     echo "<h3>Shipping Address: ".$row["shipAddress"]."</h3>";
     echo "<h3>Time: ".$row["orderdate"]."</h3>";
 
+    echo "<a href='HomePage.php'>Home</a>";
+
     // second query
     $sql2 = "select * from orderedProducts where orderID = ".$row["orderNum"];
     // run the second query
