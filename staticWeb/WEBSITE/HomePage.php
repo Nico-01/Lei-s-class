@@ -86,11 +86,10 @@ style="width:100%">
 <form>
   <label for="email" style="color:white; font-weight: bold;">Subscribe to the newsletter for exclusive offers and deals:</style></label><br>
   <input type="text" id="email" name="email" value="Enter email address here"> <input type="submit" value="Submit">
-</form> 
+</form>
+    <?php include "login.php"; ?>
 </div>
-    <div id="header">
-        <?php include "login.php"; ?>
-    </div>
+
 </tr>
 </table>
 

@@ -18,7 +18,7 @@
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
-      <a href="allproducts.php.html">Products</a>
+      <a href="allproducts.php">Products</a>
     </div>
  </div>
   
