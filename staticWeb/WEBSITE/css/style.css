@@ -304,8 +304,6 @@ div.product{
 /* gallery */
 
 div.gallery {
-  margin: 20px;
-  float: left;
   width: 180px;
   display: inline-block;
 }
