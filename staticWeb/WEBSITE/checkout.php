@@ -76,7 +76,6 @@ if($total >=300)
 {
     echo "Free delivery";
 }
-//total or price or something else?
 
 $userID = $_SESSION["userID"];
 $shippingAddress = $_POST["shippingAddress"];

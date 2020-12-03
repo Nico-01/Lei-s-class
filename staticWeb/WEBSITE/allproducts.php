@@ -1,13 +1,13 @@
+<?php include "sessionStart.php"; ?>
 <!DOCTYPE html>
 <html>
 <head>
 <meta charset="UTF-8">
-<!-- Comments look like this, remember to do a title -->
 <title>allProducts</title>
 <link rel = "stylesheet" type = "text/css" href = "css/style.css" >
 </head>
 
-
+<!-- Navigation -->
 <body>
 <a href="HomePage.php"><img class="logo" src="images/logo.png"></a>
 <img class="delivery" src="images/Delivery.PNG">
