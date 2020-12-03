@@ -17,7 +17,8 @@ while ($i<sizeof($orderedProductIDs)){
     $i++;
 }
 echo "<p>Total: $total</p>";
-//if ($total > ???){
+
+//(Here?) if ($total > ???){
 //
 //}else{
 //
