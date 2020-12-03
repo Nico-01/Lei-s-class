@@ -22,8 +22,6 @@ $sql = "select * from orders where userID = $userID";
 //3 run the first query
 $result = mysqli_query($conn, $sql);
 
-echo "<a href='HomePage.php'>Home</a>";
-
 //4 show the first query
 while ($row = $result->fetch_assoc()){
     echo "<h3>Order Number: ".$row["orderNum"]."</h3>";
