@@ -10,7 +10,7 @@
 
 <body>
 <a href="HomePage.php"><img class="logo" src="images/logo.png"></a>
-<img class="delivery" src="images/Delivery.png">
+<img class="delivery" src="images/Delivery.PNG">
  
 <div class="navbar">
 <div class="dropdown">
@@ -38,7 +38,7 @@
     <a href="registerForm.html">Register</a>
     <a href="cart.php">Cart</a>
 </div>
-<a href="cart.php"><img class="cart" src="images/cart.png"></a>
+<a href="cart.php"><img class="cart" src="images/Cart.PNG"></a>
 
 <!-- Gallery -->
  <div class="product">

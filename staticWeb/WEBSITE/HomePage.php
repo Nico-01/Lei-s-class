@@ -40,7 +40,7 @@
     <a href="registerForm.html">Register</a>
     <a href="cart.php">Cart</a>
 </div>
-<a href="cart.php"><img class="cart" src="images/cart.PNG"></a>
+<a href="cart.php"><img class="cart" src="images/Cart.PNG"></a>
 
 <!-- Content -->
 
