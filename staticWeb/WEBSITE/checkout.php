@@ -81,7 +81,7 @@ function createAnOrder($userID, $shippingAddress, $datetime){
     //1 connection
     $conn = createDatabaseConnection();
     //2 query
-    $sql = "($userID,'$shippingAddress','$datetime')";
+    $sql = "(NULL,$userID,'$shippingAddress','$datetime')";
     echo $sql;
     //3 run query
     $result = mysqli_query($conn, $sql);
