@@ -95,10 +95,9 @@ function insertProductToOrderedTable($orderID, $productID, $qty){
     //1 connection
     $conn = createDatabaseConnection();
     //2 query
-    $sql = "INSERT INTO `orderedProducts`(`orderedProductID`, `orderID`, `productID`, `qty`) 
-            VALUES (NULL,$orderID,$productID,$qty)";
+    $sql = "(NULL,$orderID,$productID,$qty)";
     //3 run query
-    mysqli_query($conn, $sql);
+    $result = mysqli_query($conn, $sql);
 }
 
 //create my order
