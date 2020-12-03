@@ -81,11 +81,10 @@ function createAnOrder($userID, $shippingAddress, $datetime){
     //1 connection
     $conn = createDatabaseConnection();
     //2 query
-    $sql = "INSERT INTO `orders`(`orderNum`, `userID`, `shipAddress`, `orderdate`) 
-            VALUES (NULL,$userID,'$shippingAddress','$datetime')";
+    $sql = "(NULL,$userID,'$shippingAddress','$datetime')";
     echo $sql;
     //3 run query
-    mysqli_query($conn, $sql);
+    $result = mysqli_query($conn, $sql);
     //I need my orderID
     $orderID = mysqli_insert_id($conn);
     return $orderID;
