@@ -18,11 +18,11 @@ while ($i<sizeof($orderedProductIDs)){
 }
 echo "<p>Total: $total</p>";
 
-//(Here?) if ($total > ???){
-//
-//}else{
-//
-//}
+
+if($total >=300)
+{
+    echo "Free delivery";
+}
 
 if (isset($_SESSION["userID"])){
 ?>

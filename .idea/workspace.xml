@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87acc406-a508-45f3-89ac-3f6bbc687f6e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/staticWeb/WEBSITE/sessionStart.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticWeb/WEBSITE/allproducts.php" beforeDir="false" afterPath="$PROJECT_DIR$/staticWeb/WEBSITE/allproducts.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticWeb/WEBSITE/AboutUs.php" beforeDir="false" afterPath="$PROJECT_DIR$/staticWeb/WEBSITE/AboutUs.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticWeb/WEBSITE/HomePage.php" beforeDir="false" afterPath="$PROJECT_DIR$/staticWeb/WEBSITE/HomePage.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticWeb/WEBSITE/cart.php" beforeDir="false" afterPath="$PROJECT_DIR$/staticWeb/WEBSITE/cart.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/staticWeb/WEBSITE/checkout.php" beforeDir="false" afterPath="$PROJECT_DIR$/staticWeb/WEBSITE/checkout.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,6 +27,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpTemplates">
+    <option name="NEW_PHP_FILE_LAST_EXTENSION" value="ctp" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -114,7 +118,7 @@
       <workItem from="1606868804056" duration="7830000" />
       <workItem from="1606949890972" duration="11005000" />
       <workItem from="1606992728745" duration="1378000" />
-      <workItem from="1607014040092" duration="708000" />
+      <workItem from="1607014040092" duration="1320000" />
     </task>
     <servers />
   </component>
@@ -136,10 +140,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="412" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1606520655553" />
-    <state x="516" y="286" key="NewPhpFileDialog" timestamp="1605472422423">
+    <state x="516" y="286" key="NewPhpFileDialog" timestamp="1607014548798">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="516" y="286" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1605472422423" />
+    <state x="516" y="286" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1607014548798" />
     <state x="525" y="83" key="RollbackChangesDialog" timestamp="1606519536338">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

@@ -72,11 +72,6 @@ function getProductPriceByProductID($productID){
     return $price;
 }
 
-if($total >=300)
-{
-    echo "Free delivery";
-}
-
 $userID = $_SESSION["userID"];
 $shippingAddress = $_POST["shippingAddress"];
 date_default_timezone_set("Pacific/Auckland");
