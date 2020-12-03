@@ -40,10 +40,11 @@
 </div>
 <a href="cart.php"><img class="cart" src="images/Cart.PNG"></a>
 
+<?php include "login.php"; ?>
+
 <!-- Gallery -->
  <div class="product">
      <div id="header">
-         <?php include "login.php"; ?>
          <?php include "products.php"; ?>
 
  </div>
