@@ -114,4 +114,4 @@ while ($i < sizeof($orderedProductIDs)){
 $_SESSION["orderedProductIDs"] = [];
 $_SESSION["orderedProductQtys"] = [];
 
-echo "<a href='HomePage.php'>Home</a>";
+
