@@ -84,7 +84,7 @@ function createAnOrder($userID, $shippingAddress, $datetime){
     $sql = "($userID,'$shippingAddress','$datetime')";
     echo $sql;
     //3 run query
-    $result = mysqli_query($conn, $sql);
+    mysqli_query($conn, $sql);
     //I need my orderID
     $orderID = mysqli_insert_id($conn);
     return $orderID;
@@ -96,7 +96,7 @@ function insertProductToOrderedTable($orderID, $productID, $qty){
     //2 query
     $sql = "(NULL,$orderID,$productID,$qty)";
     //3 run query
-    $result = mysqli_query($conn, $sql);
+    mysqli_query($conn, $sql);
 }
 
 //create my order
