@@ -77,7 +77,7 @@ $shippingAddress = $_POST["shippingAddress"];
 date_default_timezone_set("Pacific/Auckland");
 $datetime = date("Y-m-d H:i:s");
 
-function createAnOrder($userID, $shippingAddress, $datetime){
+function createAnOrder($orderNum, $userID, $shippingAddress, $datetime){
     //1 connection
     $conn = createDatabaseConnection();
     //2 query
