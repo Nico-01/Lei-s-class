@@ -72,8 +72,8 @@ function getProductPriceByProductID($productID){
     return $price;
 }
 
-$orderNum = $_SESSION["orderNum"];
 $userID = $_SESSION["userID"];
+$orderNum = $_POST["orderNum"];
 $shippingAddress = $_POST["shippingAddress"];
 date_default_timezone_set("Pacific/Auckland");
 $datetime = date("Y-m-d H:i:s");
