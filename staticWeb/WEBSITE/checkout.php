@@ -113,3 +113,5 @@ while ($i < sizeof($orderedProductIDs)){
 //clear my shopping cart
 $_SESSION["orderedProductIDs"] = [];
 $_SESSION["orderedProductQtys"] = [];
+
+echo "<a href='HomePage.php'>Home</a>";

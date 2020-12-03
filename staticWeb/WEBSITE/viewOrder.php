@@ -22,13 +22,15 @@ $sql = "select * from orders where userID = $userID";
 //3 run the first query
 $result = mysqli_query($conn, $sql);
 
+echo "<a href='HomePage.php'>Home</a>";
+
 //4 show the first query
 while ($row = $result->fetch_assoc()){
     echo "<h3>Order Number: ".$row["orderNum"]."</h3>";
     echo "<h3>Shipping Address: ".$row["shipAddress"]."</h3>";
     echo "<h3>Time: ".$row["orderdate"]."</h3>";
 
-    echo "<a href='HomePage.php'>Home</a>";
+    //X
 
     // second query
     $sql2 = "select * from orderedProducts where orderID = ".$row["orderNum"];
@@ -39,4 +41,4 @@ while ($row = $result->fetch_assoc()){
     }
 }
 
-echo "<a href='HomePage.php'>Home</a>";
+//X
